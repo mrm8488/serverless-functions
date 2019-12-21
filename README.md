@@ -1,1 +1,1 @@
-# serverless-functions
+# Netlify serverless functions example
